@@ -7,6 +7,9 @@ You can redistribute it under the BSD license.
 How to run the QNotepad
 =======================
 
+Preliminary Work:
+You have to install the Qt Library first.
+
 1. change to the source code directory and to make it
 
 	#> make
